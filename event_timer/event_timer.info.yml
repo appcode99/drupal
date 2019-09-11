@@ -1,0 +1,5 @@
+name: Event Timer
+type: module
+description: Display number of days till event will happen or display note that event is over.
+package: Custom
+core: 8.x
